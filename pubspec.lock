@@ -6,17 +6,17 @@ packages:
     description:
       path: "."
       ref: main
-      resolved-ref: "1284e1ad875c40a6ca84d03c3fcb5acdf23803ca"
+      resolved-ref: "9566e66e2c8426c9b12b28d6746707ddb9f18bf8"
       url: "https://github.com/AstroxNetwork/agent_dart"
     source: git
-    version: "0.1.5"
+    version: "0.1.8"
   args:
     dependency: transitive
     description:
       name: args
       url: "https://pub.flutter-io.cn"
     source: hosted
-    version: "2.1.1"
+    version: "2.2.0"
   async:
     dependency: transitive
     description:
@@ -241,7 +241,7 @@ packages:
       name: pointycastle
       url: "https://pub.flutter-io.cn"
     source: hosted
-    version: "3.1.3"
+    version: "3.2.0"
   protobuf:
     dependency: transitive
     description:
@@ -337,14 +337,14 @@ packages:
       name: url_launcher_linux
       url: "https://pub.flutter-io.cn"
     source: hosted
-    version: "2.0.0"
+    version: "2.0.1"
   url_launcher_macos:
     dependency: transitive
     description:
       name: url_launcher_macos
       url: "https://pub.flutter-io.cn"
     source: hosted
-    version: "2.0.0"
+    version: "2.0.1"
   url_launcher_platform_interface:
     dependency: transitive
     description:
@@ -358,14 +358,14 @@ packages:
       name: url_launcher_web
       url: "https://pub.flutter-io.cn"
     source: hosted
-    version: "2.0.1"
+    version: "2.0.2"
   url_launcher_windows:
     dependency: transitive
     description:
       name: url_launcher_windows
       url: "https://pub.flutter-io.cn"
     source: hosted
-    version: "2.0.0"
+    version: "2.0.1"
   uuid:
     dependency: transitive
     description:

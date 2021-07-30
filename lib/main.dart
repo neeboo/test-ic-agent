@@ -92,7 +92,7 @@ class _MyAppState extends State<MyApp> {
       var authClient = WebAuthProvider(
           scheme: "identity",
           path: 'auth',
-          authUri: Uri.parse('PUT_STAGING_URI_HERE'),
+          authUri: Uri.parse('http://r7inp-6aaaa-aaaaa-aaabq-cai.localhost:8000'),
           useLocalPage: false);
 
       await authClient.login(AuthClientLoginOptions()..canisterId = "a64ux-piaaa-aaaae-aaara-cai");
